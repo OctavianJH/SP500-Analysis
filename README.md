@@ -20,5 +20,4 @@ The GBM framework relies on strong assumptions, including constant volatility, n
 - Stress-testing under crisis conditions
 
 ## Author:
-Octavian Humphreys
-Independant Quantitative finance project
+Octavian Humphreys - Independant Quantitative finance project
