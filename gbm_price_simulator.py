@@ -58,7 +58,7 @@ print("Var error :", var_error)
 
 
 # --- PLOTS to enable after validation ---
-"""
+
 plt.hist(terminal_prices, bins=50, density=True)
 plt.title("Distribution of Simulated S&P 500 Prices at T = 1 Year")
 plt.xlabel("Price")
@@ -73,4 +73,3 @@ plt.xlabel("log(price / S0)")
 plt.ylabel("Density")
 plt.show()
 
-"""
